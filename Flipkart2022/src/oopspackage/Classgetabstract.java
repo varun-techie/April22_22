@@ -9,6 +9,7 @@ public class Classgetabstract extends TestAbstract {
 		ab.skeltonb();
 		ab.sketltona();
 		
+		//ggjhhjhhj
 	}
 
 	@Override
